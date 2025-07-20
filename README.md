@@ -1,4 +1,4 @@
-Python Practice
+#Python Practice
 This folder includes basic Python topics for beginners:
 
 List – Basic list operations
