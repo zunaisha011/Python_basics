@@ -1,0 +1,27 @@
+def div(nume,denom):
+    try:
+        result=nume/denom
+        print(result)
+    except ZeroDivisionError:
+        print('Dont use zero')
+div(2,0)
+div(2,4)
+
+import math
+def square_root(num):
+    try:
+        a=math.sqrt(num)
+        print(a)
+    except ValueError:
+        print('No neg values')
+square_root(-3)
+
+
+def com_cal(num):
+    try:
+        result=num/num-5
+        print(result)
+    except:
+        print("An error occurred during calculation.")
+a=int(input('Enter number'))
+com_cal(a)

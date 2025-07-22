@@ -12,7 +12,7 @@ for color in colors:
 
 colors = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
 for color in colors:
-    print(color)
+    print(colors)
 # OUTPUT
 # ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 # ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
@@ -59,6 +59,3 @@ for i in range(0, 5):
     squares[i] = 'white'
     print("After square ", i, 'is',  squares[i])
 
-number=[1,2,3,4,5]
-for i in range(1, 5):
-    print(i,'is', number[i])
