@@ -1,0 +1,6 @@
+Line 1: This is a practice file.
+Line 2: You can use Python to open this file.
+Line 3: Try reading all lines at once.
+Line 4: Or use readline() to read one at a time.
+Line 5: Don't forget to close the file when you're done!
+Line 6: You can also use 'with' to handle files safely.
