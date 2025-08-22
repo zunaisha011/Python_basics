@@ -5,14 +5,22 @@ This folder includes basic Python topics for beginners:
 
 ## Topics Covered
 
-List – Basic list operations
+Variables: Declaring and using variables in Python.
 
-Tuple – Working with tuples
+Data Types: Working with common types such as int, str, bool, float, list, tuple, set, and dict.
 
-Set – Simple set examples
+Input/Output: Reading user input using input() and displaying output with print().
 
-Dictionary – Key-value pairs practice
+Operators: Performing arithmetic, comparison, logical, and assignment operations.
 
-Operators – Arithmetic and logical operators
+Control Structures: Writing decision-making code with if/elif/else.
 
-Loops – for and while loops
+Loops: Iterating with for and while loops.
+
+Functions: Defining and calling functions, including arguments and return values.
+
+Exception Handling: Handling errors gracefully with try/except.
+
+Classes & Objects: Basics of object-oriented programming in Python.
+
+File Handling: Reading from and writing to files.
